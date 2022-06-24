@@ -5,7 +5,7 @@ environment in order to achieve overall organizational goals
 ### SKILLS
 - Good communication and human relation skills
 - A team player
-- Multitasking abilities in operating different applications on computer
+- Machine Learning  abilities in operating different applications on computer
 - Customer relations
 - To work with honest and understanding
 - Numerical control and understanding
