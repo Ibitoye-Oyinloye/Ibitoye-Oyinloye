@@ -1,16 +1,21 @@
-### Hi there 👋
+### PROFESSIONAL SUMMARY
+To strive for performance in all positions and circumstances towards attaining
+professional distinction and proficiency in the face of competitive work
+environment in order to achieve overall organizational goals
+### SKILLS
+- Good communication and human relation skills
+- A team player
+- Multitasking abilities in operating different applications on computer
+- Customer relations
+- To work with honest and understanding
+- Numerical control and understanding
+- Python
+- Colaboratory
+- Github
+- Data Cleaning
 
-<!--
-**Ibitoye-Oyinloye/Ibitoye-Oyinloye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Connect with Me
 
-Here are some ideas to get you started:
+[LinkedIn_Profile](linkedin.com/in/ibitoye-oyinloye-3b564b106)
+- ibitoyeoyinloye@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
